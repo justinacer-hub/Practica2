@@ -13,29 +13,29 @@ Resolución de los ejercicios de la Actividad 2 de Taller de Lenguaje.
 
 1. Clonar el repositorio:
 
-\```bash
+```bash
 git clone https://github.com/justinacer-hub/Practica2.git
 cd Practica2
-\```
+```
 
 2. Crear y activar el entorno virtual:
 
-\```bash
+```bash
 python -m venv .venv
 .venv\Scripts\activate
-\```
+```
 
 3. Instalar dependencias:
 
-\```bash
+```bash
 pip install -r requirements.txt
-\```
+```
 
 ## Ejecución
 
-\```bash
+```bash
 jupyter notebook
-\```
+```
 
 Luego abrir `notebooks/10CompetenciaCocina.ipynb` y ejecutar las celdas en orden.
 
